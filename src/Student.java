@@ -3,6 +3,7 @@
  * @create: 2019-10-13 16:32
  */
 public class Student {
+    //姓名
     private String name;
     private int age;
     private int score;
